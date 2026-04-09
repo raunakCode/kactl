@@ -8,7 +8,9 @@ typedef long long ll;
 typedef pair<int, int> pii;
 typedef vector<int> vi;
 
+#define dbg(x) cout << #x << " = " << x << endl
+
 int main() {
 	cin.tie(0)->sync_with_stdio(0);
-	cin.exceptions(cin.failbit);
+	//cin.exceptions(cin.failbit);
 }
