@@ -7,7 +7,7 @@
  * Usage:
  * 	auto treeAndRoot = centroid(graph);
  * Time: O(N)
- * Status: unkown
+ * Status: unknown
  */
 
 #pragma once
